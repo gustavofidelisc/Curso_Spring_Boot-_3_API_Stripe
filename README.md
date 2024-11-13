@@ -8,11 +8,16 @@ Essa abordagem prática e direta me deu uma boa base para organizar e estruturar
 
 Principais pontos abordados:
 
-🌐 Padrão MVC: Organização da aplicação com separação clara entre camadas.
+🌐 Padrão MVC: Organização da aplicação com separação clara entre camadas. 
+
 📝 DTOs: Estruturação e transferência de dados limpa e eficiente.
+
 🗃️ PostgreSQL: Integração para persistência de dados.
+
 🔄 Migrações com Flyway: Controle e atualização de versões de banco de dados.
+
 🚨 Manipuladores de Exceção: Melhor gerenciamento e feedback de erros.
+
 💳 Integração com Stripe: Automação e webhooks para pagamentos.
 
 Essa experiência foi fundamental para fortalecer meu entendimento em Spring Boot e me preparar para desenvolver APIs organizadas e eficazes!
