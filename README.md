@@ -1,4 +1,6 @@
-Neste curso introdutório de Spring Boot 3, aprendi a desenvolver aplicações de maneira prática e organizada, focando no essencial do framework. Usamos o padrão MVC (Model-View-Controller), que proporciona uma estrutura clara para gerenciar o fluxo de dados, e utilizamos DTOs (Data Transfer Objects), facilitando o transporte e a manipulação de informações nas APIs.
+# Curso de Spring Boot 3
+
+Neste curso de Spring Boot 3, aprendi a desenvolver aplicações de maneira prática e organizada, focando no essencial do framework. Usamos o padrão MVC (Model-View-Controller), que proporciona uma estrutura clara para gerenciar o fluxo de dados, e utilizamos DTOs (Data Transfer Objects), facilitando o transporte e a manipulação de informações nas APIs.
 
 Foi apresentado um conjunto de boas práticas que tornam o desenvolvimento mais eficiente, como a integração do PostgreSQL para persistência de dados e o uso do Flyway para gerenciar versões e migrações do banco de dados. Também aprendi a configurar manipuladores de exceções personalizados, o que enriquece a experiência do usuário ao oferecer feedback mais direto e amigável.
 
